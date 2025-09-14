@@ -22,7 +22,7 @@ ai.html →   about some details of Artificial Intelligence
 
 Clone the repository:
 
-git clone https://github.com/your-username/mern.html.git
+git clone https://github.com/lavanya622/mern.html.git
 
 - Download zip file and see it for understand better. 
 
